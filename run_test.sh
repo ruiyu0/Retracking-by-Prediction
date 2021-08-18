@@ -1,0 +1,11 @@
+# detection
+cd detection
+python motion_detector.py
+# tracking
+cd ../tracking
+python sort.py
+python downsample_tracks.py
+# re-tracking
+cd ../retracking-by-prediction
+python predict.py
+python retracking.py
