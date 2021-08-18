@@ -1,0 +1,20 @@
+name: retracking
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - cudatoolkit=9.0
+  - imageio=2.9.0
+  - matplotlib=3.3.2
+  - numpy=1.19.2
+  - opencv=4.1.0
+  - pillow=8.0.0
+  - pip=20.2.4
+  - python=3.7.9
+  - pytorch=1.1.0
+  - scikit-image=0.14.3
+  - scipy=1.2.1
+  - torchvision=0.3.0
+  - pip:
+    - filterpy==1.4.5
