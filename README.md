@@ -4,7 +4,7 @@ The repository contains the code and data for "Towards Robust Human Trajectory P
 ## Dataset 
 
 ### SDD
-   Download the Stanford Drone Dataset (SDD) from the [official website](https://cvgl.stanford.edu/projects/uav_data/). The ~69G zip file includes the raw videos and annotations.
+   Download the [Stanford Drone Dataset (SDD)](https://cvgl.stanford.edu/projects/uav_data/). The ~69G zip file includes the raw videos and annotations.
 
 - **Our refined annotations of SDD**
 
@@ -12,7 +12,7 @@ The repository contains the code and data for "Towards Robust Human Trajectory P
     - Our refined annotation files have been uploaded to [Google Drive](https://drive.google.com/drive/folders/1_hMSdAr31l5XoZj3SmW_9QShd_p99yGW?usp=sharing).
 
 ### WILDTRACK
-   Download the WILDTRACK Seven-Camera HD Dataset from the [official website](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/).
+   Download the [WILDTRACK Seven-Camera HD Dataset](https://www.epfl.ch/labs/cvlab/data/data-wildtrack/).
 
 - **Our extended annotations of WILDTRACK**
 
