@@ -1,5 +1,5 @@
 # Towards Robust Human Trajectory Prediction in Raw Videos
-The repository contains the code and data for "Towards Robust Human Trajectory Prediction in Raw Videos" IROS 2021.
+The repository contains the code and data for "[Towards Robust Human Trajectory Prediction in Raw Videos](https://arxiv.org/abs/2108.08259)" IROS 2021.
 
 ## Dataset 
 
